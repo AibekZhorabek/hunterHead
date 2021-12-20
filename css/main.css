@@ -1,0 +1,15 @@
+.card {
+    position: relative;
+    max-height: 400px;
+    min-height: 400px;
+}
+
+div > .justify-content-between {
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+}
+
+.text-muted {
+    margin-left: 15px;
+}
